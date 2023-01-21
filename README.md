@@ -15,11 +15,9 @@ The following details How I mapped out my Midi Device to functions in Smart SDR
 |Left Sync	    |2|	ATU Tune|
 |Left Cue	      |1|	Mode Next Slice A|
 |Left Play/Pause|0|	PTT Push Slice A|
-		
 |Load 1	        |3842|	Select Slice A
 |Load 2	        |3843|	Select Slice B
 |Browse (Push)	|3846|	Mute Main Audio
-		
 |Right Slider	  |265|	Balance Slice B |
 |Right Wheel	  |262|	Frequency Slice B |
 |Cue Level	    |3852|	Slice B Vol|
