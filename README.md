@@ -9,7 +9,7 @@ The following details How I mapped out my Midi Device to functions in Smart SDR
 | ------------- |------------- | ------------- |
 |Left Slider	  |9|	 Balance Slice A|
 |Left Wheel	    |6|	Frequency Slice A|
-|Master level	  |3850|	Slice A Vol|
+|Master level	  |3850|	Slice A Volume|
 |Left level	    |22|	Mic Gain|
 |Left Headphone	|27|	Toggle Mute Slice A|
 |Left Sync	    |2|	ATU Tune|
@@ -20,7 +20,7 @@ The following details How I mapped out my Midi Device to functions in Smart SDR
 |Browse (Push)	|3846|	Mute Main Audio
 |Right Slider	  |265|	Balance Slice B |
 |Right Wheel	  |262|	Frequency Slice B |
-|Cue Level	    |3852|	Slice B Vol|
+|Cue Level	    |3852|	Slice B Volume|
 |Right level	  |278|	AGC Threshold|
 |Right Headphone|283|	Toggle Mute Slice B|
 |Right Sync	    |258|	ATU Tune|
