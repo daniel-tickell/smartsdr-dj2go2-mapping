@@ -36,7 +36,7 @@ The Table below refers to the 1,2,3,4 keys on the left and right, against the mo
 |Left 2	|1026	|NR Slice A	  |	1042	|FT8			 |	1058	|-			|1074	|-			|
 |Left 3	|1027	|ANF Slice A  |	1043	|Logbook		 |	1059	|-			|1075	|-			|
 |Left 4	|1028	|Mode Next Act|	1044	| -				 |	1060	|-			|1076	|-			|
-|Right 1|1281	| - 		  | 1297	| -				 |	1313	|-			|1329	|-			|
-|Right 2|1282	| - 		  |	1298	| - 			 |	1314	|-			|1330	|-			|
-|Right 3|1283	| - 		  |	1299	| - 			 |	1315	|-			|1331	|-			|
+|Right 1|1281	| Open DX Cluster 		  | 1297	| -				 |	1313	|-			|1329	|-			|
+|Right 2|1282	| FT8 		  |	1298	| - 			 |	1314	|-			|1330	|-			|
+|Right 3|1283	| Logbook 		  |	1299	| - 			 |	1315	|-			|1331	|-			|
 |Right 4|1284	| - 	      |	1300	| - 			 |	1316	|-			|1332	|-			|
